@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Numbers & Games 1-3000",
+  "description": "An interactive educational application for learning and practicing Spanish numbers from 1 to 3000, with comprehensive guides, Armenian phonetics, and 6 diverse games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
